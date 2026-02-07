@@ -7,11 +7,11 @@
 </h2>
 
 <h4 align="center">
-  Python Full Stack Developer | Web Developer
+  Python Full Stack Developer | Web Application Developer
 </h4>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Full+Stack+Developer;Web+Application+Developer;Always+learning+new+things;Love+to+build+projects+🚀&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Full+Stack+Developer;Building+Web+Applications;Backend+with+Python+%26+MySQL;Frontend+with+HTML+CSS+JavaScript;Always+learning+🚀&center=true&width=600&height=45">
 </p>
 
 <p align="center">
@@ -22,16 +22,18 @@
 
 ## 👩‍💻 About Me
 
-- 💻 Python Full Stack Developer passionate about building web applications  
-- 🌱 Currently improving my backend & frontend skills  
-- 🧠 Love learning new technologies and solving problems  
-- 🚀 Actively looking for **entry-level / junior developer opportunities**
+I am a **Python Full Stack Developer** with hands-on experience in building responsive and dynamic web applications.
+
+I work across both **frontend and backend**, using **Python** for server-side logic, **MySQL** for database management, and **HTML, CSS, JavaScript** for creating clean and interactive user interfaces.
+
+I enjoy solving real-world problems, learning new technologies, and continuously improving my development skills.  
+Currently, I am seeking **entry-level / junior full stack developer opportunities** where I can grow and contribute to impactful projects.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### 🔹 Languages
+### 🔹 Languages & Frontend
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -44,6 +46,18 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📂 Projects
+
+🔹 **Full Stack Web Applications**
+- Developed web applications using **Python, MySQL, HTML, CSS, JavaScript**
+- Implemented backend logic and database operations
+- Designed responsive and user-friendly interfaces
+- Practiced debugging, optimization, and clean code principles
+
+> 📌 *More projects coming soon — actively building and learning!*
 
 ---
 
@@ -64,7 +78,7 @@
   <a href="mailto:aarivetimounika@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[[https://www.linkedin.com/in/aariveti-mounika/](https://www.linkedin.com/in/aariveti-mounika-3445463a7?utm_source=share_via&utm_content=profile&utm_medium=member_android)](https://www.linkedin.com/in/aariveti-mounika-3445463a7?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+  <a href="https://www.linkedin.com/in/aariveti-mounika/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
@@ -72,7 +86,7 @@
 ---
 
 <h4 align="center">
-✨ Thanks for visiting my profile ✨  
+✨ Thanks for visiting my GitHub profile ✨
 </h4>
 
 <div align="center">
