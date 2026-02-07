@@ -6,9 +6,6 @@
   Hi 👋, I'm Aariveti Mounika
 </h2>
 
-<h4 align="center">
-  Python Full Stack Developer | Web Application Developer
-</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Python+Full+Stack+Developer;Building+Web+Applications;Backend+with+Python+%26+MySQL;Frontend+with+HTML+CSS+JavaScript;Always+learning+🚀&center=true&width=600&height=45">
@@ -22,12 +19,12 @@
 
 ## 👩‍💻 About Me
 
-I am a **Python Full Stack Developer** with hands-on experience in building responsive and dynamic web applications.
-
-I work across both **frontend and backend**, using **Python** for server-side logic, **MySQL** for database management, and **HTML, CSS, JavaScript** for creating clean and interactive user interfaces.
-
-I enjoy solving real-world problems, learning new technologies, and continuously improving my development skills.  
-Currently, I am seeking **entry-level / junior full stack developer opportunities** where I can grow and contribute to impactful projects.
+- 💻 I am an **Aspiring Python Full Stack Developer**
+- 📚 Currently learning **Python, Java, SQL and Web Development**
+- 🌱 Exploring **Django Framework and Backend Development**
+- 💡 Passionate about coding and problem solving
+- 🎯 Goal: Become a professional Full Stack Developer
+- 📍 From Andhra Pradesh, India
 
 ---
 
@@ -71,6 +68,7 @@ Currently, I am seeking **entry-level / junior full stack developer opportunitie
 </div>
 
 ---
+
 ## 🔗 Connect With Me
 
 <div align="center">
