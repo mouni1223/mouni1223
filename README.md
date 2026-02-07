@@ -78,10 +78,11 @@ Currently, I am seeking **entry-level / junior full stack developer opportunitie
   <a href="mailto:aarivetimounika@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[www.linkedin.com/in/aariveti-mounika-3445463a7](https://www.linkedin.com/in/amilineni-jayaprakash-naidu-772566382?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
+  <a href="https://www.linkedin.com/in/aariveti-mounika/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
+
 
 ---
 
