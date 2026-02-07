@@ -17,13 +17,14 @@
 
 ---
 
-## 👩‍💻 About Me
+### 👨‍💻 About Me
 
-- 💻 I am an **Aspiring Python Full Stack Developer**
-- 📚 Currently learning **Python, Java, SQL and Web Development**
+- 💻 I am an **Python Full Stack Developer**
+- 📚 Skilled in **Python, JavaScript, Django, MySQL and Web Development**
 - 🌱 Exploring **Django Framework and Backend Development**
 - 💡 Passionate about coding and problem solving
 - 🎯 Goal: Become a professional Full Stack Developer
+- 🧩  Building real world web applications
 - 📍 From Andhra Pradesh, India
 
 ---
